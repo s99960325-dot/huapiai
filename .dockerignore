@@ -1,0 +1,13 @@
+config.json
+config.json.old
+config.cfg
+.chatgpt_cache.json
+.git
+.github
+.cursor
+tests
+frontend/node_modules
+**/__pycache__
+*.pyc
+*.pyo
+.pytest_cache
